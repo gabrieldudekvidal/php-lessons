@@ -71,7 +71,7 @@
                     echo "<p> Something went wrong </p>";
             }
 
-            echo "<p>The resukt is " . $value . "</p>";
+            echo "<p>The result is " . $value . "</p>";
 
         }
     }
